@@ -1,0 +1,3 @@
+header colour black
+text colour white
+font size 45px
