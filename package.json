@@ -1,0 +1,23 @@
+{
+  "name": "app_sdm",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "alif",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "config": "^3.2.2",
+    "ejs": "^2.7.1",
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
